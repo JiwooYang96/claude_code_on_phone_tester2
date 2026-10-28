@@ -5,7 +5,7 @@ A minimal one-page website contained entirely in `index.html`.
 ## What's inside
 
 - **Sections:** a hero, About, Features, and Contact, linked from a sticky top nav with smooth scrolling.
-- **Styling:** plain CSS inlined in the `<head>`; responsive layout and automatic dark mode via `prefers-color-scheme`.
+- **Styling:** plain CSS inlined in the `<head>`; responsive layout and a dark blue colour scheme defined as CSS variables on `:root`.
 - **No dependencies:** no JavaScript, frameworks, or build step.
 
 ## Viewing it
